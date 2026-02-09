@@ -1,6 +1,5 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Prathmesh%20Bhoyar&fontSize=45&fontColor=ffffff&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=2,12,14,19,24&text=Prathmesh%20Bhoyar&fontSize=48&fontAlignY=38&desc=AI%20%7C%20Automation%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+%26+Automation+Enthusiast;Full+Stack+Developer;30+Days+•+30+Mini+Projects;Building+Real-World+Systems)
 
 ---
 
@@ -32,9 +31,7 @@ I strongly believe in **learning by building**, consistency, and writing code th
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge)
-![C](https://img.shields.io/badge/C-Intermediate-grey?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge)
 
 ### 🌐 Web & Backend
 ![HTML](https://img.shields.io/badge/HTML5-Strong-orange?style=for-the-badge)
@@ -49,9 +46,7 @@ I strongly believe in **learning by building**, consistency, and writing code th
 
 ### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-Lightweight-blue?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-Comfortable-black?style=for-the-badge)
 
 ---
 
@@ -60,14 +55,6 @@ I strongly believe in **learning by building**, consistency, and writing code th
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prathmesh2507&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh2507&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prathmesh2507&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
