@@ -1,47 +1,90 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Prathmesh%20Bhoyar&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
-###
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+%26+Automation+Enthusiast;Full+Stack+Developer;30+Days+•+30+Mini+Projects;Building+Real-World+Systems)
 
-<h4 align="center">👋 Hi, I'm Prathmesh Bhoyar<br><br>🚀 Aspiring AI Engineer | Full-Stack Developer | Automation & Systems Enthusiast  <br>💡 Building practical, real-world projects with a strong focus on performance, usability, and clean architecture.</h4>
+---
 
-###
+## 👋 About Me
 
-<h3 align="left">👩‍💻  About Me</h3>
+I'm **Prathmesh Bhoyar**, a developer focused on **AI, automation, and scalable systems**.  
+I enjoy turning complex ideas into practical, working solutions with clean architecture and real-world usability.
 
-###
+I strongly believe in **learning by building**, consistency, and writing code that actually solves problems.
 
-<h6 align="left">📆 Currently executing a **30-day challenge** where I design, build, and deploy **one mini project every day**.<br><br>🎯 Goals:<br>- Strengthen core fundamentals<br>- Improve problem-solving speed<br>- Build a strong public portfolio<br>- Maintain a consistent GitHub streak<br><br>📌 Each project is:<br>- Independently version-controlled  <br>- Well-documented  <br>- Built with production-grade practices</h6>
+---
 
-###
+## 🔥 30 Days • 30 Mini Projects Challenge
 
-<h3 align="left">🛠 Language and tools</h3>
+📅 I am actively completing a **30-day challenge** where I:
+- Build **one mini project every day**
+- Push **daily commits** to GitHub
+- Focus on **clarity, performance, and documentation**
 
-###
+🎯 Purpose:
+- Strengthen fundamentals
+- Improve problem-solving speed
+- Create a strong public portfolio
+- Maintain long-term consistency
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
-</div>
+---
 
-###
+## 🧠 Technical Skill Set
 
-<h3 align="left">🔥   My Stats :</h3>
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge)
+![C](https://img.shields.io/badge/C-Intermediate-grey?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge)
 
-###
+### 🌐 Web & Backend
+![HTML](https://img.shields.io/badge/HTML5-Strong-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-Strong-blue?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-Modern-green?style=for-the-badge)
+
+### 🤖 AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Core-green?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Basics-purple?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Pandas-orange?style=for-the-badge)
+
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-Lightweight-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Comfortable-black?style=for-the-badge)
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathmesh2507&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh2507&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prathmesh2507&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced Python automation  
+- AI-assisted system design  
+- Scalable backend architecture  
+- Voice & context-aware interfaces  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/prathmesh2507 
+
+---
+
+> **“Consistency compounds. One commit at a time.”** 🚀
