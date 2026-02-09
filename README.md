@@ -5,25 +5,28 @@
 
 ## 👋 About Me
 
-I'm **Prathmesh Bhoyar**, a developer focused on **AI, automation, and scalable systems**.  
-I enjoy turning complex ideas into practical, working solutions with clean architecture and real-world usability.
+👋 Hi, I'm Prathmesh Bhoyar
 
-I strongly believe in **learning by building**, consistency, and writing code that actually solves problems.
+🚀 Aspiring AI Engineer | Full-Stack Developer | Automation & Systems Enthusiast  
+💡 Building practical, real-world projects with a strong focus on performance, usability, and clean architecture.
+
 
 ---
 
 ## 🔥 30 Days • 30 Mini Projects Challenge
 
-📅 I am actively completing a **30-day challenge** where I:
-- Build **one mini project every day**
-- Push **daily commits** to GitHub
-- Focus on **clarity, performance, and documentation**
+📆 Currently executing a **30-day challenge** where I design, build, and deploy **one mini project every day**.
 
-🎯 Purpose:
-- Strengthen fundamentals
+🎯 Goals:
+- Strengthen core fundamentals
 - Improve problem-solving speed
-- Create a strong public portfolio
-- Maintain long-term consistency
+- Build a strong public portfolio
+- Maintain a consistent GitHub streak
+
+📌 Each project is:
+- Independently version-controlled  
+- Well-documented  
+- Built with production-grade practices 
 
 ---
 
