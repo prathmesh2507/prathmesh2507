@@ -4,14 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
 <h4 align="center">👋 Hi, I'm Prathmesh Bhoyar<br><br>🚀 Aspiring AI Engineer | Full-Stack Developer | Automation & Systems Enthusiast  <br>💡 Building practical, real-world projects with a strong focus on performance, usability, and clean architecture.</h4>
 
 ###
