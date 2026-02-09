@@ -5,7 +5,7 @@
 
 ## 👋 About Me
 
-👋 Hi, I'm Prathmesh Bhoyar
+Hi, I'm Prathmesh Bhoyar
 
 🚀 Aspiring AI Engineer | Full-Stack Developer | Automation & Systems Enthusiast  
 💡 Building practical, real-world projects with a strong focus on performance, usability, and clean architecture.
