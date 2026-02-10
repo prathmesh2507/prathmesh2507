@@ -25,20 +25,7 @@ I enjoy working close to the system layer — automating workflows, designing ba
 
 ---
 
-## 🔥 Ongoing Project Challenges & Learning Sprints
 
-To sharpen my fundamentals and maintain execution discipline, I regularly take on **structured build challenges** — such as my current **90-day mini-project sprint**.
-
-These challenges are **not short-term experiments**, but part of my long-term approach to:
-- Strengthening core concepts
-- Improving problem-solving speed
-- Building a strong public portfolio
-- Maintaining consistent engineering output
-
-Each project is:
-- 📦 Independently version-controlled  
-- 🧾 Properly documented  
-- 🛠️ Designed with production-grade practices  
 
 ---
 
@@ -79,7 +66,9 @@ Each project is:
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/prathmesh2507  
+- GitHub: https://github.com/prathmesh2507
+- Linkedin: www.linkedin.com/in/prathmesh-bhoyar-24b0b0310
+- Email: prathmeshbhoyar321@gmail.com
 
 ---
 
