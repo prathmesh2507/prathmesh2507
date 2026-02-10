@@ -13,7 +13,7 @@ Hi, I'm Prathmesh Bhoyar
 
 ---
 
-## 🔥 30 Days • 30 Mini Projects Challenge
+## 🔥 90 Days • 30 Mini Projects Challenge
 
 📆 Currently executing a **30-day challenge** where I design, build, and deploy **one mini project every day**.
 
@@ -41,11 +41,6 @@ Hi, I'm Prathmesh Bhoyar
 ![CSS](https://img.shields.io/badge/CSS3-Strong-blue?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Modern-green?style=for-the-badge)
-
-### 🤖 AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Core-green?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-Basics-purple?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Pandas-orange?style=for-the-badge)
 
 ### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge)
