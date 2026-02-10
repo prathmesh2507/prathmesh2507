@@ -2,39 +2,51 @@
 
 ---
 
-
 ## 👋 About Me
 
-Hi, I'm Prathmesh Bhoyar
+Hi, I'm **Prathmesh Bhoyar** 👋  
 
-🚀 Aspiring AI Engineer | Full-Stack Developer | Automation & Systems Enthusiast  
-💡 Building practical, real-world projects with a strong focus on performance, usability, and clean architecture.
+🚀 **Aspiring AI Engineer | Full-Stack Developer | Automation & Systems Enthusiast**  
+💡 I focus on building **practical, real-world software systems** with strong emphasis on **performance, scalability, clean architecture, and developer experience**.
 
+I enjoy working close to the system layer — automating workflows, designing backend services, and creating tools that feel *useful*, *maintainable*, and *production-ready*.
 
 ---
 
-## 🔥 90 Days • 30 Mini Projects Challenge
+## 🧭 Engineering Philosophy
 
-📆 Currently executing a **30-day challenge** where I design, build, and deploy **one mini project every day**.
+- Write clean, readable, and scalable code  
+- Prefer simplicity over unnecessary complexity  
+- Build things that solve real problems  
+- Stay consistent and improve incrementally  
+- Learn by building, breaking, and refining  
 
-🎯 Goals:
-- Strengthen core fundamentals
-- Improve problem-solving speed
-- Build a strong public portfolio
-- Maintain a consistent GitHub streak
+> I believe good engineers are built through **discipline, curiosity, and long-term consistency**.
 
-📌 Each project is:
-- Independently version-controlled  
-- Well-documented  
-- Built with production-grade practices 
+---
+
+## 🔥 Ongoing Project Challenges & Learning Sprints
+
+To sharpen my fundamentals and maintain execution discipline, I regularly take on **structured build challenges** — such as my current **90-day mini-project sprint**.
+
+These challenges are **not short-term experiments**, but part of my long-term approach to:
+- Strengthening core concepts
+- Improving problem-solving speed
+- Building a strong public portfolio
+- Maintaining consistent engineering output
+
+Each project is:
+- 📦 Independently version-controlled  
+- 🧾 Properly documented  
+- 🛠️ Designed with production-grade practices  
 
 ---
 
 ## 🧠 Technical Skill Set
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Strong-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-Strong-yellow?style=for-the-badge)
 
 ### 🌐 Web & Backend
 ![HTML](https://img.shields.io/badge/HTML5-Strong-orange?style=for-the-badge)
@@ -61,14 +73,14 @@ Hi, I'm Prathmesh Bhoyar
 - Advanced Python automation  
 - AI-assisted system design  
 - Scalable backend architecture  
-- Voice & context-aware interfaces  
+- Voice-driven & context-aware interfaces  
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/prathmesh2507 
+- GitHub: https://github.com/prathmesh2507  
 
 ---
 
-> **“Consistency compounds. One commit at a time.”** 🚀
+> **“Build systems. Stay consistent. Let results speak.”** 🚀
