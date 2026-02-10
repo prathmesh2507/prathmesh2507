@@ -23,7 +23,7 @@ I enjoy working close to the system layer — automating workflows, designing ba
 
 > I believe good engineers are built through **discipline, curiosity, and long-term consistency**.
 
----
+
 
 
 
