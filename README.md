@@ -47,11 +47,15 @@ I enjoy working close to the system layer — automating workflows, designing ba
 
 ---
 
-## 📊 GitHub Activity
+
+
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh2507&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=prathmesh2507&theme=radical" />
 </p>
+
+
 
 ---
 
