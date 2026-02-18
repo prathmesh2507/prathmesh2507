@@ -61,10 +61,10 @@ I enjoy working close to the system layer — automating workflows, designing ba
 
 ## 🌱 Currently Exploring
 
-- Advanced Python automation  
-- AI-assisted system design  
-- Scalable backend architecture  
-- Voice-driven & context-aware interfaces  
+- Advanced Python automation.
+- AI-assisted system design.
+- Scalable backend architecture.
+- Voice-driven & context-aware interfaces.
 
 ---
 
