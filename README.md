@@ -15,8 +15,8 @@ I enjoy working close to the system layer — automating workflows, designing ba
 
 ## 🧭 Engineering Philosophy
 
-- Write clean, readable, and scalable code  
-- Prefer simplicity over unnecessary complexity  
+- Write clean, readable, and scalable code.
+- Prefer simplicity over unnecessary complexity.
 - Build things that solve real problems  
 - Stay consistent and improve incrementally  
 - Learn by building, breaking, and refining  
