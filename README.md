@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=2,12,14,19,24&text=Prathmesh%20Bhoyar&fontSize=48&fontAlignY=38&desc=AI%20%7C%20Automation%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=2,12,14,19,24&text=Prathmesh%20Bhoyar&fontSize=48&fontAlignY=38&desc=AI%20%7C%20Aspiring%20Data%20Analyst%20%7C%20Python%20Developer&descAlignY=55&descSize=20&animation=fadeIn)
 
 ---
 
@@ -6,22 +6,22 @@
 
 Hi, I'm **Prathmesh Bhoyar** 👋  
 
-🚀 **Aspiring AI Engineer | Full-Stack Developer | Automation & Systems Enthusiast**  
-💡 I focus on building **practical, real-world software systems** with strong emphasis on **performance, scalability, clean architecture, and developer experience**.
+🚀 **AI Enthusiast | Aspiring Data Analyst | Python Developer**  
+💡 I focus on building practical, data-driven systems that combine **AI**, **analytics**, and **scalable backend engineering** .
 
-I enjoy working close to the system layer — automating workflows, designing backend services, and creating tools that feel *useful*, *maintainable*, and *production-ready*.
+I enjoy working with **data**, **automation**, and **intelligent systems** — turning raw data into insights and building tools that are efficient, reliable, and production-ready.
 
 ---
 
-## 🧭 Engineering Philosophy
+## 🧭 Engineering & Data Philosophy
 
-- Write clean, readable, and scalable code.
-- Prefer simplicity over unnecessary complexity.
-- Build things that solve real problems  
-- Stay consistent and improve incrementally  
-- Learn by building, breaking, and refining  
+- Write clean, scalable, and maintainable code.
+- Let data drive decisions, not assumptions.
+- Focus on real-world problem solving.  
+- Keep systems simple but powerful.  
+- Learn by building, analyzing, and improving.
 
-> I believe good engineers are built through **discipline, curiosity, and long-term consistency**.
+> I believe strong developers grow by combining **logic, consistency, and curiosity** with real execution.
 
 
 
@@ -31,18 +31,16 @@ I enjoy working close to the system layer — automating workflows, designing ba
 ## 🧠 Technical Skill Set
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-Strong-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-Strong-yellow?style=for-the-badge)
+<p> <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
+
+### 📊 Data & Analytics
+<p> <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
 
 ### 🌐 Web & Backend
-![HTML](https://img.shields.io/badge/HTML5-Strong-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS3-Strong-blue?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-Modern-green?style=for-the-badge)
+<p> <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-High%20Performance-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> </p>
 
 ### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge)
+<p> <img src="https://img.shields.io/badge/MySQL-Database-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/> </p>
 
 ---
 
@@ -60,10 +58,11 @@ I enjoy working close to the system layer — automating workflows, designing ba
 
 ## 🌱 Currently Exploring
 
-- Advanced Python automation.
-- AI-assisted system design.
-- Scalable backend architecture.
-- Voice-driven & context-aware interfaces.
+- AI-powered data analysis systems.
+- Advanced data visualization (Power BI dashboards).
+- Backend systems for data-driven applications.
+- Automation + AI integration workflows.
+- Real-time analytics & decision systems.
 
 ---
 
@@ -75,4 +74,4 @@ I enjoy working close to the system layer — automating workflows, designing ba
 
 ---
 
-> **“Build systems. Stay consistent. Let results speak.”** 🚀
+> **“Turn data into decisions. Build systems that matter.”** 🚀
