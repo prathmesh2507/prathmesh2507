@@ -1,5 +1,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=2,12,14,19,24&text=Prathmesh%20Bhoyar&fontSize=48&fontAlignY=38&desc=AI%20%7C%20Aspiring%20Data%20Analyst%20%7C%20Python%20Developer&descAlignY=55&descSize=20&animation=fadeIn)
 
+
 ---
 
 
