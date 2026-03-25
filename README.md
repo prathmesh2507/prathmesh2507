@@ -25,7 +25,6 @@ I enjoy working with **data**, **automation**, and **intelligent systems** — t
 
 > I believe strong developers grow by combining **logic, consistency, and curiosity** with real execution.
 
-
 ---
 
 ## 🧠 Technical Skill Set
