@@ -31,11 +31,6 @@
   <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql"/>
 </p>
 
-### 🤖 AI / ML
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Model%20Building-102230?style=for-the-badge"/>
-</p>
-
 ### 🌐 Development
 <p>
   <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask"/>
