@@ -27,7 +27,6 @@
 ### 📊 Data Analytics
 <p>
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-Numerical-013243?style=for-the-badge&logo=numpy"/>
   <img src="https://img.shields.io/badge/Power%20BI-Visualization-F2C811?style=for-the-badge&logo=powerbi"/>
   <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql"/>
 </p>
