@@ -76,7 +76,6 @@
 ## 📫 Connect With Me
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/prathmesh-bhoyar-24b0b0310  
-- 💻 GitHub: https://github.com/prathmesh2507  
 - 📧 Email: prathmeshbhoyar321@gmail.com  
 
 ---
