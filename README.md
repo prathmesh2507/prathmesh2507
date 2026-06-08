@@ -137,11 +137,3 @@ Smart Public Transport Optimization System
 </a>
 
 </p>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile 🚀
-
-</div>
