@@ -1,23 +1,23 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=2,12,14,19,24&text=Prathmesh%20Bhoyar&fontSize=48&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20Developer%20%7C%20AI%20Builder&descAlignY=55&descSize=20&animation=fadeIn)
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24&text=Prathmesh%20Bhoyar&fontSize=50&fontAlignY=40&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20Python%20Developer&descAlignY=58&animation=fadeIn"/>
 
-## 👨‍💻 About Me
+</div>
 
-💡 Passionate about building **data-driven systems** and **AI-powered solutions**  
-📊 Transforming raw data into **meaningful insights & decisions**  
-⚡ Focused on **real-world projects, automation & scalable backend systems**
+#  👨‍💻  About Me
 
+🔹 Passionate about Data Analytics, AI, and Automation
 
-🔭 Currently working on:
-- AI + Data Analytics Projects  
-- Machine Learning Models   
+🔹 Transforming raw datasets into meaningful business insights
 
-🎯 Goal:
-> To become a highly skilled **Data Analyst & AI Engineer** building impactful solutions.
+🔹 Building real-world projects using Python, Power BI, SQL, and Machine Learning
+
+🔹 Interested in Financial Analytics, Transportation Analytics, and Predictive Systems
+
+🎯 **Goal:** Become a world-class Data Analyst & AI Engineer creating impactful products.
 
 ---
-
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
 ### 💻 Languages
 <p>
@@ -47,41 +47,101 @@
 
 ---
 
-## 🚀 Featured Projects 
+# 🚀 Featured Projects
 
-### 📊 Data Analytics Dashboard
-- Created interactive dashboards using Power BI  
-- Extracted insights from real-world datasets  
+<table align="center">
+<tr align="center">
+<td width="50%">
+
+### 📈 Global Stock Intelligence Dashboard
+Analyze 20+ Countries & 400+ Stocks
+
+**Tech:** Python • Streamlit • YFinance • Plotly
+
+🔗 [View Project](https://github.com/prathmesh2507/Global-Stock-Intelligence-Dashboard)
+
+</td>
+
+<td width="50%">
+
+### ⚽ FIFA World Cup Dashboard
+Interactive World Cup Analytics & Insights
+
+**Tech:** Power BI • DAX • Data Modeling
+
+🔗 [View Project](https://github.com/prathmesh2507/FIFA-Worldcup-powerbi-Dashboard)
+
+</td>
+</tr>
+
+<tr align="center">
+<td width="50%">
+
+### 🏬 India Superstore Dashboard
+Sales, Profit & Customer Analytics
+
+**Tech:** Power BI • Excel • DAX
+
+🔗 [View Project](https://github.com/prathmesh2507/India-Superstore-powerbi-Dashboard)
+
+</td>
+
+<td width="50%">
+
+### ☕ Coffee Sales Dashboard
+Business Intelligence for Retail Operations
+
+**Tech:** Power BI • Data Analysis
+
+🔗 [View Project](https://github.com/prathmesh2507/Coffee-Sales-Powerbi-Dashboard)
+
+</td>
+</tr>
+
+<tr align="center">
+<td width="50%">
+
+### 🚌 CTC Hackathon
+Smart Public Transport Optimization System
+
+**Tech:** Python • GIS • Analytics
+
+🔗 [View Project](https://github.com/prathmesh2507/CTC-HACKTHON)
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=prathmesh2507&theme=radical" />
+<img src="https://streak-stats.demolab.com?user=prathmesh2507&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌱 Currently Learning
+# 🌐 Connect With Me
 
-- Advanced Data Analytics  
-- Machine Learning Optimization   
-- Real-time Data Processing  
+<p align="center">
 
----
+<a href="https://www.linkedin.com/in/prathmesh-bhoyar-24b0b0310">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-## 📫 Connect With Me
+<a href="mailto:prathmeshbhoyar321@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/prathmesh-bhoyar-24b0b0310  
-- 📧 Email: prathmeshbhoyar321@gmail.com  
-
----
-
-## ⚡ Fun Fact
-
-> I don’t just analyze data — I turn it into **decisions, systems, and impact** 🚀
+</p>
 
 ---
+
+<div align="center">
+
+### Thanks for visiting my profile 🚀
+
+</div>
