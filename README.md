@@ -16,36 +16,21 @@
 
 🎯 **Goal:** Become a world-class Data Analyst & AI Engineer creating impactful products.
 
----
-# 🧠 Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,mysql,git,github" />
 </p>
 
-### 📊 Data Analytics
-<p>
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Power%20BI-Visualization-F2C811?style=for-the-badge&logo=powerbi"/>
-  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-### 🌐 Development
-<p>
-  <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3"/>
-</p>
 
-### 🛠️ Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/MySQL-Database-00758F?style=for-the-badge&logo=mysql"/>
-</p>
-
----
 
 # 🚀 Featured Projects
 
