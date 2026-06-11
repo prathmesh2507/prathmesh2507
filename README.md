@@ -18,17 +18,27 @@
 
 # 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,mysql,git,github" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
+### Languages & Development
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,flask,mysql,git,github" />
+
+<br><br>
+
+### Analytics & Data Science
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+
+</div>
 
 
 
@@ -112,6 +122,29 @@ Smart Public Transport Optimization System
 
 ---
 
+# 🌟 Developer Mindset
+
+<div align="center">
+
+```text
+Collect Data
+     ↓
+Clean Data
+     ↓
+Analyze Data
+     ↓
+Generate Insights
+     ↓
+Build Solutions
+     ↓
+Create Impact
+```
+
+</div>
+
+---
+
+
 # 🌐 Connect With Me
 
 <p align="center">
@@ -125,3 +158,30 @@ Smart Public Transport Optimization System
 </a>
 
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
