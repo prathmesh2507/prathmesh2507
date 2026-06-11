@@ -102,6 +102,9 @@ Smart Public Transport Optimization System
 ---
 
 # 📊 GitHub Analytics
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh2507&theme=tokyonight&layout=compact"/>
+</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=prathmesh2507&theme=tokyonight"/>
