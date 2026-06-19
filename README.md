@@ -128,15 +128,15 @@ Smart Public Transport Optimization System
 
 ```text
 Collect Data
-     ↓
+    ↓
 Clean Data
-     ↓
+    ↓
 Analyze Data
-     ↓
+    ↓
 Generate Insights
-     ↓
+    ↓
 Build Solutions
-     ↓
+    ↓
 Create Impact
 ```
 
