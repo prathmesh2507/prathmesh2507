@@ -41,7 +41,6 @@
 </div>
 
 
-
 # 🚀 Featured Projects
 
 <table align="center">
