@@ -121,28 +121,6 @@ Smart Public Transport Optimization System
 
 ---
 
-# 🌟 Developer Mindset
-
-<div align="center">
-
-```text
-Collect Data
-    ↓
-Clean Data
-    ↓
-Analyze Data
-    ↓
-Generate Insights
-    ↓
-Build Solutions
-    ↓
-Create Impact
-```
-
-</div>
-
----
-
 
 # 🌐 Connect With Me
 
