@@ -111,9 +111,7 @@ Smart Public Transport Optimization System
 ---
 
 # 📊 GitHub Analytics
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh2507&theme=tokyonight&layout=compact"/>
-</p>
+
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=prathmesh2507&theme=tokyonight"/>
@@ -121,6 +119,26 @@ Smart Public Transport Optimization System
 
 ---
 
+# 🤝 Let's Collaborate
+
+I'm always open to collaborating on:
+
+- 🤖 AI & ML Projects
+- 📊 Data Analytics
+- 📈 Power BI Dashboards
+- 🌍 Open Source
+- 🚀 Innovative Ideas
+- 🏆 Hackathons
+
+
+
+<p align="center">
+
+### ⭐ If you like my work, consider following me and starring my repositories!
+
+</p>
+
+---
 
 # 🌐 Connect With Me
 
